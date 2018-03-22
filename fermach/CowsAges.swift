@@ -33,7 +33,7 @@ class CowsAges: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
         self.pikeer.delegate = self
         self.pikeer.dataSource = self
         
-        pickerData = ["0.5 - 1", "1 - 1.5", "1.5- 2", "2 - 2.5", "2.5 - 3", "3 - 3.5", "3.5 - 4", "Более старшике породы"]
+        pickerData = ["0.5 - 1", "1 - 1.5", "1.5- 2", "2 - 2.5", "2.5 - 3", "3 - 3.5", "3.5 - 4", "Более старшие породы"]
     }
     
     override func didReceiveMemoryWarning() {

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F07E2AA2063F353004D75C1 /* LinkVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F07E2A92063F353004D75C1 /* LinkVC.swift */; };
 		3F989410205AACE200C0C9D9 /* ALSeasonsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F98940F205AACE200C0C9D9 /* ALSeasonsVC.swift */; };
 		3F989412205AB47300C0C9D9 /* CowsAgesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F989411205AB47300C0C9D9 /* CowsAgesVC.swift */; };
 		3F989414205AC1E500C0C9D9 /* HorsesAgesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F989413205AC1E500C0C9D9 /* HorsesAgesVC.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F07E2A92063F353004D75C1 /* LinkVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkVC.swift; sourceTree = "<group>"; };
 		3F98940F205AACE200C0C9D9 /* ALSeasonsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALSeasonsVC.swift; sourceTree = "<group>"; };
 		3F989411205AB47300C0C9D9 /* CowsAgesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CowsAgesVC.swift; sourceTree = "<group>"; };
 		3F989413205AC1E500C0C9D9 /* HorsesAgesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorsesAgesVC.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				3FAA20A52063C0C100194850 /* CowsAges.swift */,
 				3F989413205AC1E500C0C9D9 /* HorsesAgesVC.swift */,
 				3FAA20A72063C27800194850 /* HorsesAges.swift */,
+				3F07E2A92063F353004D75C1 /* LinkVC.swift */,
 				3FC6294D204854450023D609 /* Main.storyboard */,
 				3FC62950204854450023D609 /* Assets.xcassets */,
 				3FC62952204854450023D609 /* LaunchScreen.storyboard */,
@@ -168,6 +171,7 @@
 			files = (
 				3FC6294C204854450023D609 /* MenuVC.swift in Sources */,
 				3F989412205AB47300C0C9D9 /* CowsAgesVC.swift in Sources */,
+				3F07E2AA2063F353004D75C1 /* LinkVC.swift in Sources */,
 				3FAA20A62063C0C100194850 /* CowsAges.swift in Sources */,
 				3F989414205AC1E500C0C9D9 /* HorsesAgesVC.swift in Sources */,
 				3F989410205AACE200C0C9D9 /* ALSeasonsVC.swift in Sources */,

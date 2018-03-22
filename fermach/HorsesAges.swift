@@ -38,7 +38,7 @@ class  HorsesAges: UIViewController, UIPickerViewDelegate, UIPickerViewDataSourc
         self.pikert.delegate = self
         self.pikert.dataSource = self
         
-        pickerData = ["0.5 - 1", "1 - 1.5", "1.5- 2", "2 - 2.5", "2.5 - 3", "3 - 3.5", "3.5 - 4", "Более старшике породы"]
+        pickerData = ["0.5 - 1", "1 - 1.5", "1.5- 2", "2 - 2.5", "2.5 - 3", "3 - 3.5", "3.5 - 4", "Более старшие породы"]
     }
 
     
